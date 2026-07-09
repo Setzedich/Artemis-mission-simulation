@@ -6,6 +6,14 @@ This project models a simplified **Artemis II free-return lunar trajectory** usi
 
 ---
 
+## Demo
+
+<p align="center">
+  <img src="video%20artemis.gif" alt="Artemis Mission Simulation Demo" width="850"/>
+</p>
+
+---
+
 ## Overview
 
 **Artemis Mission Simulation** is an educational and scientific visualization project focused on trajectory modeling, numerical methods, and interactive data visualization.
