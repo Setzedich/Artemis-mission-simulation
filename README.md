@@ -9,7 +9,7 @@ This project models a simplified **Artemis II free-return lunar trajectory** usi
 ## Demo
 
 <p align="center">
-  <img src="video%20artemis.gif" alt="Artemis Mission Simulation Demo" width="850"/>
+  <img src="videoartemis.gif" alt="Artemis Mission Simulation Demo" width="850"/>
 </p>
 
 ---
